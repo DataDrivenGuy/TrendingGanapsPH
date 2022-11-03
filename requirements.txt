@@ -2,3 +2,4 @@ tweepy==4.12.0
 pandas==1.4.3
 streamlit==1.12.0
 geocoder==1.38.1
+python-dotenv
